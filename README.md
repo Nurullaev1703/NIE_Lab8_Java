@@ -1,4 +1,3 @@
-# GMB05_lab08_javaProgramming
-Practical work 8. In the discipline of Java Programming
+# NIE_Lab8_Java
+# Lab8 of Java
 
-![Screenshot](Screenshot_3.png)
