@@ -1,3 +1,3 @@
 # NIE_Lab8_Java
-# Lab8 of Java
+Lab 8 of Java
 
